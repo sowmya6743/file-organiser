@@ -21,3 +21,10 @@ This program monitors any folder on your computer and automatically organizes fi
 - **datetime** - Date-based sorting logic
 
 ## 📂 Project Structure
+
+file-organiser/
+├── pro_organiser.py # Professional version (final)
+├── auto_organiser.py # Automatic watcher version
+├── sorter.py # Manual sorting version
+├── create_test_files.py # Helper script for testing
+└── README.md # Documentation
