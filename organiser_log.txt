@@ -1,0 +1,7 @@
+[2026-05-02 23:21:17] ==================================================
+[2026-05-02 23:21:17] 🤖 PROFESSIONAL FILE ORGANISER STARTED
+[2026-05-02 23:21:17] 📁 WATCHING: /Users/sowmyakothakapu/Desktop/PracticeFolder
+[2026-05-02 23:21:17] 📊 SORTING BY: type
+[2026-05-02 23:21:17] 📝 LOG FILE: organiser_log.txt
+[2026-05-02 23:21:17] 🛑 Press Ctrl+C to stop
+[2026-05-02 23:21:17] ==================================================
